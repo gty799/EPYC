@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 group-title="Новости",Первый канал (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_1TV.m3u8
+#EXTINF:-1 group-title="Новости",Россия 1 (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="Развлекательные",НТВ (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_NTV.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятый канал (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_5TV.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВЦ (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_TVC.m3u8
+#EXTINF:-1 group-title="Развлекательные",РЕН ТВ (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_RENTV.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_STS.m3u8
+#EXTINF:-1 group-title="Развлекательные",Домашний (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТВ3 (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_TV3.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница! (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Развлекательные",МИР (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_MIR.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_TNT.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че! (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_CHE.m3u8
+#EXTINF:-1 group-title="Культура",Россия K (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_ROSSIAK.m3u8
+#EXTINF:-1 group-title="Культура",ОТР (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_OTR.m3u8
+#EXTINF:-1 group-title="Детские",Карусель (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_KARUSEL.m3u8
+#EXTINF:-1 tvg-id="karusel" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-id="karusel-int" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детские",Карусель Int.
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 tvg-id="solnce" tvg-logo="https://iptvx.one/picons/solnce.png" group-title="Детские",Солнце
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1 tvg-id="mult" tvg-logo="https://iptvx.one/picons/mult.png" group-title="Детские",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjVeRu12WCbng3tsF9oRnw3T7Tzpf3eV_agA&s" group-title="Детские",Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Детские",Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 group-title="Звезда",Звезда (Псков)
+http://dmi3y-tv6.ru/hls/zabava/region/PSKV/CH_ZVEZDA.m3u8
+#EXTINF:-1 tvg-logo="https://adindex.ru/files2/photogallery/2020_11/photo2_286493_smotrim2.jpg.jpg" group-title="Кино",Смотрим (Кино и сериалы)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Наше новое кино HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский детектив.png" group-title="Кино",Русский детектив
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Русский роман.png" group-title="Кино",Русский роман
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Кино",Fox Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="Кино",Kino24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кино",Amedia 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Киномикс HD.png" group-title="Кино",Киномикс HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Кино",Киномикс
+http://31.210.208.171:8080/kinomix/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Кино",Кинокомедиа
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwpitvBTGoC-_fg7ra_q1BoV03fzk6POEXrQ&s" group-title="Кино",Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="Кино",Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2wKMwO51NBNqeqYbRFxeXvPHb8BmnFzv-QQ&s" group-title="Наука",Наука
+http://vod.tuva.ru/nauka2/index.m3u8
